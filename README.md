@@ -45,7 +45,7 @@ La communication Host ↔ Guest s’effectue via un réseau virtuel isolé afin 
 - Rédaction d’un rapport technique détaillé
 
 ## Rapport
-Le rapport complet décrivant l’ensemble des étapes, choix techniques et analyses est disponible dans le dossier **/docs**.
+Le rapport complet décrivant l'installation et la mise en place de cette sandbox est disponible dans le dossier **/docs** ansi qu'un exemple d'anlayse d'un binaire.
 
 ## Compétences mises en œuvre
 - Virtualisation et isolation
